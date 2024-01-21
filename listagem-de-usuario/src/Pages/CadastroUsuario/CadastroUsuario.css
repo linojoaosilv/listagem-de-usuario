@@ -1,0 +1,17 @@
+.div_geral{
+    background-color: rgb(255, 213, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.div_geral label{
+    margin: 1rem;
+    font-weight: 700;
+}
+
+.div_geral input {
+    margin: 5px;
+}
